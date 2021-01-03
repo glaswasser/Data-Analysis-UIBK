@@ -1,0 +1,2 @@
+http://de.reuters.com/article/topNews/idDEBEE5AG04R20091117	2009-11-17
+Dazu gesellt sich der erweiterte Spotcolor-Messmodus, mit dem das Farbverhalten zwischen der Kalibrationssoftware und einem Programm oder innerhalb eines Workflows überprüft werden kann.

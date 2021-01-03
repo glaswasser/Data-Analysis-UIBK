@@ -1,0 +1,2 @@
+http://www.abendblatt.de/daten/2009/03/28/1102618.html	2009-03-28
+Der SATA-Controller unterstützt Festplatten bis zu einem Terabyte.

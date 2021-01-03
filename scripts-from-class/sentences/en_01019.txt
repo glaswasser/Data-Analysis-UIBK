@@ -1,0 +1,2 @@
+http://www.delawareonline.com/apps/pbcs.dll/article?AID=/20090127/SPARK/901270353	2009-01-28
+Protip: if you can't nail 60 FPS 100 percent of the time, lock it at 30 so we don't have to deal with the awkward herky-jerkiness of the animation trying to keep up.

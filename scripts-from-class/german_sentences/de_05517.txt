@@ -1,0 +1,2 @@
+http://rss.chip.de/c/573/f/7440/s/5470855/l/0L0Schip0Bde0Cnews0CArchos0E10As0EDuennes0Eund0Eleichtes0E10A0E20EZoll0ENetbook0I3726930A10Bhtml/story01.htm	2009-07-15
+Daran dürfte die im Kernel-Log bereits erwähnte und am am Wochenende immer noch aktive Diskussion um das Für und Wider von DRBD wohl Mitschuld tragen.

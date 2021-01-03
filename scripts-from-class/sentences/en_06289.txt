@@ -1,0 +1,2 @@
+http://www.stltoday.com/stltoday/lifestyle/stories.nsf/travel/story/6F2B476C9AF007808625761700716858?OpenDocument	2009-08-23
+That's because when you add 0.175 to 0.275 and divide by 2 you get 0.225p not 0.023p (rounded up).

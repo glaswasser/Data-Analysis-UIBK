@@ -1,0 +1,2 @@
+http://www.spiegel.de/politik/ausland/0,1518,641394,00.html	2009-08-10
+Damit will man den Programmierern die Entwicklung von transaktionalen Anwendungen in einem SOA-Umfeld über ein standardbasiertes Programmiermodell erleichtern.

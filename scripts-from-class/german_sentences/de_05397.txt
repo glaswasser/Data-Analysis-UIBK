@@ -1,0 +1,2 @@
+http://feedproxy.google.com/~r/bildblog/~3/M9Z4FhhAObo/	2009-07-10
+Auf einen davon wird im Handler's Diary des ISC hingewiesen: 'Exploiting TCP and the Persist Timer Infiniteness' beschreibt eine Schwachstelle in TCP, die für DoS-Angriffe ausgenutzt werden kann.

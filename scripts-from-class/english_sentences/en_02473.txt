@@ -1,0 +1,2 @@
+http://pcij.org/blog/?p=3557	2009-03-29
+A persistent problem that plagues Web programmers is the proper formatting of data into text fields.

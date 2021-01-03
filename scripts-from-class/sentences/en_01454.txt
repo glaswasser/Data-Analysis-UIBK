@@ -1,0 +1,2 @@
+http://science.slashdot.org/article.pl?sid=09/02/15/1734214&from=rss	2009-02-15
+However the infobox classes and attributes can be mapped to corresponding ACE entity and relation annotation scheme.

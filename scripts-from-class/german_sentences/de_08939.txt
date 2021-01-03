@@ -1,0 +1,2 @@
+http://jetzt.sueddeutsche.de/texte/anzeigen/491178	2009-11-18
+Aufpassen müssen Entwickler beim Einsatz des BYTEA-Typs - defaultmäßig ist jetzt das HEX-Ausgabeformat gewählt, was zu einem Kompatibilitätsbruch führe.

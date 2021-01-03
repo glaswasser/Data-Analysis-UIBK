@@ -1,0 +1,2 @@
+http://www.ciol.com/SMB/SMB-Featured-Articles/Feature/Productivity-tools-in-downturn-for-biz-transition/14709122259/0/	2009-07-14
+This is not an issue when it comes to communication with remote sites - all remote calls are asynchronous and use callbacks for server-to-client data flows.

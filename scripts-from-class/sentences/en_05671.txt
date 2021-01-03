@@ -1,0 +1,2 @@
+http://www.miamitodaynews.com/news/090730/story-viewpoint.shtml	2009-07-29
+Any XML parser can parse the numeric character references.

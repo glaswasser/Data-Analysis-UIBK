@@ -1,0 +1,2 @@
+http://www.net-tribune.de/article/090409-159.php	2009-04-09
+Das Forschungsteam aus Antwerpen ist damit beschäftigt, dreidimensionale Aufnahmen an einem Computertomographen herzustellen und setzte bereits bei ihrem Fastra I mit vier Nvidia 9800GX2 auf die Leistung von acht Grafikprozessoren.

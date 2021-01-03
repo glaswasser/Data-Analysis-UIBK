@@ -1,0 +1,2 @@
+http://www.oberpfalznetz.de/onetz/1713221-118-appell_an_schulen_bitte_tut_etwas,1,0.html	2009-02-14
+Das 6303 classic kommuniziert nur in GSM-Netzen bei 900, 1800 und 1900 MHz (Triband) und nutzt für Daten den EDGE-Dienst EGPRS mit maximal 296 kBit/s in Empfangs- und 178 kBit/s in Senderichtung.

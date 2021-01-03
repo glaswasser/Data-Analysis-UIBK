@@ -1,0 +1,2 @@
+http://bernerzeitung.ch/region/emmental/BaerenPaechter-droht-Rausschmiss/story/14470325	2009-04-01
+Aus der Beschreibung des Verlages: Mit diesem Buch lernen Sie den Einstieg in die Erstellung von plattformneutralen Applikation mit JavaFX bzw. JavaFX Script.

@@ -1,0 +1,2 @@
+http://www.lvz-online.de/aktuell/content/110476.html	2009-09-08
+Beide Geräte können bis zu 2 TByte Daten adressieren, im 410j ist auch RAID5 möglich, sofern mindestens drei Platten aktiv sind.

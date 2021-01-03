@@ -1,0 +1,2 @@
+http://www.polizeipresse.de/pm/6013/1502008/polizeipraesidium_mittelfranken/rss	2009-10-29
+Das Update soll für mehr Zuverlässigkeit und eine bessere Performance sorgen, darüber hinaus wurde die PHP-Entwicklungsumgebung aber auch um drei neue Features ergänzt:

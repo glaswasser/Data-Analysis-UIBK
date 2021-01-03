@@ -1,0 +1,2 @@
+http://www.news.com.au/adelaidenow/story/0,22606,25711154-5006301,00.html?from=public_rss	2009-06-30
+Next you configure the type of LOV you’d like to see in the user interface.

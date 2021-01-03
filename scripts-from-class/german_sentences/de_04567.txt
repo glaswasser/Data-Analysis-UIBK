@@ -1,0 +1,2 @@
+http://www.woz.ch/artikel/rss/17994.html	2009-06-10
+Ab VDI 3.0 hat Sun seine xVM VirtualBox als Alternative zu VMwares VI3 integriert.

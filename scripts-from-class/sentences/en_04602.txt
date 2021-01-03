@@ -1,0 +1,2 @@
+http://www.startribune.com/lifestyle/health/48268477.html	2009-06-17
+Although I'm not using Flex-specific controls beyond UIComponent, all of these techniques can be used on any of the Flex components.

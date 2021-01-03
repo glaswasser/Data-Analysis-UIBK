@@ -1,0 +1,2 @@
+http://rss.cnn.com/~r/rss/cnn_latest/~3/RFpb7jPcmpw/index.html	2009-09-14
+Storage, computing, queuing, content distribution, management tools, application specific APIs, are all capabilities that various clouds currently offer in very different ways.

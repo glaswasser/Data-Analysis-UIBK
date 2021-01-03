@@ -1,0 +1,2 @@
+http://mephisto976.uni-leipzig.de/nachrichten/anzeigen/hcl-spielt-unentschieden.html	2009-03-30
+Als mögliche Gegenmaßnahmen durch den ISP werden in Teil 1 Redirection bzw. Black-Hole-Routing, Packet Filtering, Traceback und Pushback genannt.

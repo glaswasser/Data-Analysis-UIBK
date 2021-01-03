@@ -1,0 +1,2 @@
+http://www.denverpost.com/sportsheadlines/ci_12229191?source=rss	2009-04-26
+However, the RISC OS 5 HAL is really ARM based, it was designed to allow moving RISC OS to different ARM platforms.

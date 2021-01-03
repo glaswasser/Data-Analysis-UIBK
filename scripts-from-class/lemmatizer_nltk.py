@@ -3,6 +3,10 @@ from nltk.tokenize import NLTKWordTokenizer
 from nltk.corpus import wordnet
 from nltk.stem import WordNetLemmatizer
 
+#nltk.download('averaged_perceptron_tagger')
+#nltk.download('wordnet')
+
+
 tokenizer = NLTKWordTokenizer()
 sentence = """
 Deputy minister Hoa said that after this first pilot project, the training programme will be enlarged to include around 1,000 students who were looking to work abroad.

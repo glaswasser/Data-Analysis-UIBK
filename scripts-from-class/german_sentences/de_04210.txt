@@ -1,0 +1,2 @@
+http://tagesanzeiger.ch/schweiz/standard/Warum-unser-Gesundheitswesen-so-krank-ist/story/13250727	2009-05-27
+Der H.264-Codec und das verwendete RTMP (Real Time Messaging Protocol) verwalten das Streaming hochauflösender Videos vom Media-Server.

@@ -1,0 +1,2 @@
+http://www.roanoke.com/sports/mcfarling/wb/225304	2009-11-06
+Would you run your database on a single CPU when there are 100's of sessions to service?

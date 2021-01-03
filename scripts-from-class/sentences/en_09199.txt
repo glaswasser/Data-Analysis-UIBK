@@ -1,0 +1,2 @@
+http://www.startribune.com/entertainment/movies/79088042.html	2009-12-11
+Also, Apple is going to be adding more background services to the OS (like the push alerts) and that's going to require more resources for it to run properly.

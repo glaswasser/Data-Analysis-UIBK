@@ -1,0 +1,2 @@
+http://sundial.csun.edu/grad-student-imprisoned-in-iran-1.843098	2009-05-05
+There are still areas in Java that are not completely 100% platform independent - although if the program has been properly written, or the interpreter fully covers all eventualities, then it should be less of a problem.

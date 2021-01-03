@@ -1,0 +1,2 @@
+http://rssfeeds.usatoday.com/~r/UsatodaycomNewsOpinion-Neuharth/~3/2L-K3LSyYJ8/our-view-ban-cellphoning-while-driving-not-so-fast.html	2009-07-29
+Of course H.323 works with NAT, altough only one H.323 client works at the same time on the NATed network.

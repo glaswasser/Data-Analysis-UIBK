@@ -1,0 +1,2 @@
+http://www.rotenburger-rundschau.de/redaktion/redaktion/aktuell/data_anzeigen.php?dataid=74411	2009-11-25
+Das kritische Update in MS09-006 beseitigt gleich drei Schwachstellen im Windows-Kern, die Angreifer durch prÃ¤parierte EMF- oder WMF-Bilddateien ausnutzen kÃ¶nnten.

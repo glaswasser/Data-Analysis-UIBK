@@ -1,0 +1,2 @@
+http://www.flive.de/cmp_nwso.php?nws_id=1001836802&cmp_id=	2009-07-03
+Der Exploit macht sich zu Nutze, dass eine Twitter-Seite mit einem Antragsformular den Inhalt der Variablen device_source ungefiltert übernimmt und einbettet.

@@ -1,0 +1,2 @@
+http://www.huffingtonpost.com/alice-crisci/surviving-breast-cancer-h_b_381362.html	2009-12-07
+His other suggestion that RISCOS Ltd. could open source parts of Select to assist in development and migration of RISC OS 4 to the Iyonix might cause others (particularly ROL management) to choke on their coffee.

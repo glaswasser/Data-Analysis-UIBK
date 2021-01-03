@@ -1,0 +1,2 @@
+http://allafrica.com/stories/200903060458.html	2009-03-06
+The Symbian source code is huge: 40 million lines of code in 450,000 files, comparable to Windows XP.

@@ -1,0 +1,2 @@
+http://www.boerse-online.de/tools/ftd/472348.html	2009-02-10
+Außerdem hat Microsoft in den Dateien shell32.dll und themeui.dll den Pfad zum Standard-Hintergrundbild fest verankert - er lautet immer %windir%webwallpaperwindowsimg0.jpg.

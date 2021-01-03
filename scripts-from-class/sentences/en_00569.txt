@@ -1,0 +1,2 @@
+http://gcdailyworld.com/story/1492221.html	2009-01-10
+WebOSDoctor ROM (Sprint, Bell): This is just a restoration ROM for webOS, which WebOS Quick Install needs to work.

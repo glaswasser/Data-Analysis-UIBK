@@ -1,0 +1,2 @@
+http://www.an-online.de/lokales/euregio-detail-an/1110909?_link=&skip=&_g=Stauland-NRW-Land-fordert-Nachholprogramm.html	2009-11-09
+Über den Sinn dieses CMS grübel ich gerade, da meiner Meinung nach ein riesiger OverHead (12.648 Dateien in 1.023 Ordnern) erzeugt wird und das arme Schwein, dass später diese Website anpassen und pflegen muss bedauere ich schon jetzt.

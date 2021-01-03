@@ -1,0 +1,2 @@
+http://www.net-tribune.de/article/080309-87.php	2009-03-08
+Conigma™ DEVSYNC benötigt für die Ermittlung der zu synchronisierenden Objekte keinerlei Vorarbeiten; alle benötigten Daten werden zur Laufzeit ermittelt.

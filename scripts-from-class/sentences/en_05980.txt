@@ -1,0 +1,2 @@
+http://feeds.nytimes.com/click.phdo?i=4ff2388048df001147bde5fa54bb5fe4	2009-08-12
+If Apple wanted to allow real-time location updating in the background, it could do so.

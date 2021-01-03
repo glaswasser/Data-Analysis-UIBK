@@ -1,0 +1,2 @@
+http://www.n-tv.de/1092024.html	2009-01-26
+Das X8DTN+ besitzt statt eines zweiten PCI Express Controllers eine zusätzliche PCI-X-Bridge, mit der insgesamt drei PCI-X 133/100-Schnittstellen realisiert werden.

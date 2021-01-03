@@ -1,0 +1,2 @@
+http://www.newburyportnews.com/punews/local_story_058224408.html	2009-02-28
+In libaudio.so I found Routing audio to Speakerphone with back mic reference.

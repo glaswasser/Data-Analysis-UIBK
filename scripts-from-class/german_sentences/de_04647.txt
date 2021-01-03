@@ -1,0 +1,2 @@
+http://it-republik.de/dotnet/news/Security-Hinweise-zu-einer-weiteren-TCP-Schwachstelle-und-mehr-049348.html	2009-06-15
+Allerdings dürfte erst in zwei Jahren C2 auch in Geräten zu finden sein.

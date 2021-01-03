@@ -1,0 +1,2 @@
+http://www.sueddeutsche.de/sport/705/497015/link/	2009-12-08
+Auch der Microblogging-Service Twitter bietet seit November eine Programmierschnittstelle, die es Entwicklern ermöglicht, eine Geotag-Funktion für Tweets einzubinden.
